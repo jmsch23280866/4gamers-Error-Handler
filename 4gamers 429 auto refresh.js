@@ -1,13 +1,12 @@
 // ==UserScript==
 // @name         當4gamers.com.tw顯示429 Too Many Requests時自動重新整理網頁
-// @version      0.5
+// @version      0.6
 // @description  省得手動重新整理網頁(此腳本由ChatGPT協助撰寫)
 // @author       特務E04
 // @match        https://www.4gamers.com.tw/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
-// @grant        none
 // @license      MIT
-// @namespace https://greasyfork.org/users/756522
+// @namespace    https://greasyfork.org/users/756522
 // ==/UserScript==
 
 (function() {
