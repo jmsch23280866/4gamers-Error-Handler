@@ -8,8 +8,6 @@
 // @grant        none
 // @license      MIT
 // @namespace https://greasyfork.org/users/756522
-// @downloadURL https://update.greasyfork.org/scripts/488305/%E7%95%B64gamerscomtw%E9%A1%AF%E7%A4%BA429%20Too%20Many%20Requests%E6%99%82%E8%87%AA%E5%8B%95%E9%87%8D%E6%96%B0%E6%95%B4%E7%90%86%E7%B6%B2%E9%A0%81.user.js
-// @updateURL https://update.greasyfork.org/scripts/488305/%E7%95%B64gamerscomtw%E9%A1%AF%E7%A4%BA429%20Too%20Many%20Requests%E6%99%82%E8%87%AA%E5%8B%95%E9%87%8D%E6%96%B0%E6%95%B4%E7%90%86%E7%B6%B2%E9%A0%81.meta.js
 // ==/UserScript==
 
 (function() {
