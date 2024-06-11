@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         當4gamers.com.tw顯示429 Too Many Requests時自動重新整理網頁
-// @version      0.7
-// @description  省得手動重新整理網頁(此腳本由ChatGPT協助撰寫)
+// @name         4gamers error 429 auto refresh
+// @version      0.8
+// @description  當4gamers.com.tw顯示error 429時自動重新整理網頁(此腳本由ChatGPT協助撰寫)
 // @author       特務E04
 // @match        https://www.4gamers.com.tw/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
