@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         4gamers error 429 & 404 handler
+// @name         4gamers error 429 & 404 handler / 4gamers 錯誤 429 & 404 處理器
 // @name:zh-TW   4gamers 錯誤 429 & 404 處理器
 // @version      1.1
 // @description  Automatically refresh the page when 4gamers.com.tw shows error 429, and redirect to Google webcache if it shows 404 (Powered by ChatGPT)
