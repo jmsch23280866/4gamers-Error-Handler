@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         4gamers error 429 & 404 handler
 // @name:zh-TW   4gamers 錯誤 429 & 404 處理器
-// @version      1.0
+// @version      1.1
 // @description  Automatically refresh the page when 4gamers.com.tw shows error 429, and redirect to Google webcache if it shows 404 (Powered by ChatGPT)
 // @description:zh-TW 當4gamers.com.tw顯示錯誤 429 時自動重新整理網頁，若顯示 404 則跳轉至 Google 網頁快取版。(此腳本由ChatGPT協助撰寫)
 // @author       特務E04
 // @match        https://www.4gamers.com.tw/*
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @license      MIT
+// @noframes
+// @supportURL   https://github.com/jmsch23280866/4gamers-error-handler/issues
 // @namespace    https://github.com/jmsch23280866
 // ==/UserScript==
 
