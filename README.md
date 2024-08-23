@@ -1,4 +1,4 @@
-It's a greasyfork javascript , it auto refresh [4gamers.com.tw](https://www.4gamers.com.tw/) webpage when showing 429 too many request  
+It's a greasyfork javascript , it auto refresh [4gamers.com.tw](https://www.4gamers.com.tw/) webpage when showing 429 too many request , and redirect to Google webcache if it shows 404 (Powered by ChatGPT)
 
 you can install it from [here](https://greasyfork.org/scripts/492300)
 
